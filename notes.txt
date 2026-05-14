@@ -1,0 +1,12 @@
+Class 1 : Introduction To github
+git init : empty repoistory
+git remote add origin "repo-name"
+git add filename
+git commit -m "message"
+git push origin main
+
+git log : All comits dikh jaye.
+git clone "repo-name" : To copy the whole repository to the new folder
+
+Class 2 : Branches , CI-CD piplines
+

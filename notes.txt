@@ -12,4 +12,6 @@ Class 2 : Branches , CI-CD piplines
 git branch : Give list of Branches
 git branch <branch-name> : Create the new branch
 git checkout <branch-name> : Switch the branch
+git merge <branch-name> : To merge with the master branch
 
+git checkout -b <branch-name> : Created new branch & switched to new branch

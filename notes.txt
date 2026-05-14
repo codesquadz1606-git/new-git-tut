@@ -9,4 +9,7 @@ git log : All comits dikh jaye.
 git clone "repo-name" : To copy the whole repository to the new folder
 
 Class 2 : Branches , CI-CD piplines
+git branch : Give list of Branches
+git branch <branch-name> : Create the new branch
+git checkout <branch-name> : Switch the branch
 
